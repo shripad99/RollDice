@@ -1,3 +1,5 @@
+![Web capture_12-10-2023_21319_localhost](https://github.com/shripad99/RollDice/assets/89384595/36e39076-9526-4bcb-85e6-9aafa5f47f43)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
